@@ -8,6 +8,6 @@ public class Main {
         cost = 16_200;
         bonus = cost / bonus_item;
 
-        System.out.println("Начислело бонусных миль: " + bonus);
+        System.out.println("Начислено бонусных миль: " + bonus);
     }
 }
