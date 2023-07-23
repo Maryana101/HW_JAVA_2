@@ -3,7 +3,7 @@ public class Main {
 
         int cost; //стоимость билета
         int bonus_item = 20;  //стоимость одной бонусной мили
-        int bonus; // кол-во начисленых бонусов
+        int bonus; // кол-во начисленных бонусов
 
         cost = 16_200;
         bonus = cost / bonus_item;
